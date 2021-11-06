@@ -1,0 +1,60 @@
+body
+{
+  color:darkblue;
+    background-image:"blue nice.jpg";
+    background-size:cover
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 10px dotted  black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+font-size:18px;
+    border-radius:10px;
+    letter-spacing:5px;
+    font-family:fantasy;
+}
+label{
+    font-size:14px;
+    color:darkkhaki;
+    padding:6px;
+    border-radius:10px;
+    background-color:white;
+}
+.handselfielol{
+    color:aqua;
+    font-size:22px;
+}
+.GESTURESTOBEUSEDXD{
+    font-size:22px;
+    color:fuchsia;
+    font-family:monospace;
+}
+.websnapcamshot{
+    font-size:30px;
+    font-family:cursive;
+}
+p{
+    font-size:25px;
+    font-family:monospace;
+    border-radius:10px;
+}
